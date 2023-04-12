@@ -1,0 +1,50 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-image: url('/BaiThucHanh_03/images/background.png');
+}
+h4{
+    color:white;
+    font-weight: normal;
+}
+nav ul
+{
+    display: flex;
+    list-style: none;
+    margin-right: 1rem;
+}
+header nav ul li {
+    margin-right: 0.5rem;
+    font-size: 1rem;
+    color:white;
+    padding:10px;
+}
+header nav ul li:hover {
+    transform: scale(1.1);
+    background-color: rgb(231, 227, 227);
+}
+main{
+    display: flex;
+    justify-content: space-between;
+    background-image: url('/BaiThucHanh_03/images/background.png');
+}
+h3{
+    color:white;
+    font-weight: bold;
+}
+nav ul
+{
+    display: flex;
+    list-style: none;
+    margin-right: 1rem;
+}
+main nav ul li {
+    margin-right: 0.5rem;
+    font-size: 1rem;
+    color:white;
+    padding:10px;
+}
+main nav ul li:hover {
+    transform: scale(1.1);
+    background-color: rgb(231, 227, 227);
+}
